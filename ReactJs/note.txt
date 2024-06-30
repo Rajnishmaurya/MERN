@@ -1,0 +1,10 @@
+React is a javascript library for building unser interface
+It is not a framwork
+React knows only one thing that is to create as awesome UI.
+
+Advantaes:
+It uses a declarative approach
+Reusable code
+Component based approach
+Virtual DOM updates are handled gracefully
+React is designed for speed, speed of presenting from view speedly without loading web page or application.
