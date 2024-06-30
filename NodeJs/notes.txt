@@ -1,0 +1,8 @@
+Node.js is a server side platform built on google chrome's JavaScript Engine(V8 Engine).
+Node.js was developed by Ryan Dahl in 2009 and its latest version is v0.10.36
+
+
+Node.js uses an event-driven,
+non-blocking I/O model
+lightweight and efficient,
+perfect for data-intensive real-time applications
